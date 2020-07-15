@@ -43,3 +43,5 @@ res-drawable에 이미지 넣기. 다만 이름은 영어소문자 + 이름 + _ 
 res->layout에서 텍스트뷰에
         android:id="@+id/tv1" ==> 아이디를 tv1으로 만든다.
 
+
+## 패딩 마진?
