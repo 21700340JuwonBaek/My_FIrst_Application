@@ -48,3 +48,8 @@ res->layout에서 텍스트뷰에
 
 
 ### 이미지 붙여넣기
+
+### 라이브러리 추가하는법
+
+파일--> ProjectStructure-->Dependency-->app --> + 입력하면
+graddle --> buildgraddle에 자동으로 library implements
